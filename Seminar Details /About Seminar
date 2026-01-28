@@ -1,3 +1,0 @@
-About >
----
-Dr. J. Joshua Yang's seminar at MIT.nano discusses neuromorphic computing as an alternative to traditional von Neumann architecture for AI tasks. The approach utilizes two types of memristors: volatile diffusive memristors for temporal information processing and non-volatile drift memristors for long-term memory [None]. Integrating these two types allows for more compact and energy-efficient hardware capable of biorealistic dynamics like Spike-Timing-Dependent Plasticity and running Convolutional Neural Networks for tasks such as image classification with low power [None]. For more details, visit MIT.nano.
