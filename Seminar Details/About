@@ -1,0 +1,12 @@
+This folder Contains Images from the MIT.nano Seminar: AI Hardware
+Neuromorphic Computing via Integration of Diffusive and Drift Memristors . 
+
+# Citation
+
+@misc{yang2024mitnano,
+  author = {J. Joshua Yang},
+  title = {Neuromorphic Computing via Integration of Diffusive and Drift Memristors},
+  howpublished = {MIT.nano Seminar Series},
+  year = {2024},
+  url = {https://mitnano.mit.edu/events/dec-seminar-yang}
+}
